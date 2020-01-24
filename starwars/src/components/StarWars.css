@@ -1,0 +1,18 @@
+#card {
+    width: 15%;
+    margin: 3%;
+    background-color: rgba(168, 107, 50, 0.432);
+    height: 250px;
+
+}
+
+
+.container {
+    width: 80%;
+    display: flex;
+    flex-wrap: wrap;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    color: rgb(247, 242, 233);
+}
